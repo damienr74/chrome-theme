@@ -1,0 +1,29 @@
+{
+	"version":"1.0",
+	"manifest_version":2,
+	"name":"My Theme",
+	"theme":{
+
+		"images":{
+			"theme_frame":"dark-square-design-wide-i.png",
+			"theme_toolbar":"dark-square-design-wide-i.png",
+			"theme_tab_background":"dark-square-design-wide-i.png"
+		},
+
+		"colors":{
+			"ntp_link":[130,174,164],
+			"ntp_text":[221,221,221],
+			"ntp_section_link":[221,221,221],
+			"ntp_section_text":[0,104,111],
+			"ntp_background":[0,12,21],
+			"frame":[0,104,111],
+			"toolbar":[0,104,111],
+			"tab_text":[221,221,221],
+			"tab_background_text":[0,104,111],
+			"bookmark_text":[221,221,221]
+		},
+		"tints":{
+			"buttons":[0.33,0.5,0.47]
+		}
+	}
+}
