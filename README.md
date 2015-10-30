@@ -3,7 +3,7 @@
 
 
 
-```json
+```
 {
 	//specify version
 	"version":"1.0",
@@ -58,7 +58,7 @@
 ```
 
 To load this theme into your browser:
-+Go to chrome://extensions/,
-+Check the developer mode button on the top right,
-+Click Load unpacked extenstion...
-+load the directory with your .json file
+* Go to chrome://extensions/,
+* Check the developer mode button on the top right,
+* Click Load unpacked extenstion...
+* load the directory with your .json file
