@@ -4,7 +4,7 @@
 
 
 {
-	specify version
+	//specify version
 	"version":"1.0",
 	/* specify the template format from chrome you are using.
 	 * pretty sure it does not work with other versions */
