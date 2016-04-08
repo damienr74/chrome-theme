@@ -1,7 +1,7 @@
 ! IMPORTANT NOTICE: json does not allow commenting in files!
 ! This is why I'm doing the commenting in this README
 
-
+[Example Theme](2016-04-07-162132_1366x768_scrot.png)
 
 ```
 {
